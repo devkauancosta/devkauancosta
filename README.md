@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil!
+## Olá, me chamo Kauan Costa e seja bem-vindo(a) ao meu perfil!
 
  <div>
    <a href="https://github.com/devkauancosta">
